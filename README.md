@@ -38,7 +38,7 @@ Roboflow Universe API
 | Warehouse | DuckDB |
 | Transformation | dbt Core + dbt-duckdb |
 | Dashboard | Streamlit + Plotly |
-| CI/CD | GitHub Actions |
+
 
 ## Dashboard Features
 
