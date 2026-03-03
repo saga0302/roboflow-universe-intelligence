@@ -49,6 +49,11 @@ Roboflow Universe API
 - Interactive scatter plot of dataset growth analytics
 - Raw dataset explorer with search
 
+## Dashboard Preview
+
+![Dashboard Page 1](screenshots/Dashboard_pg1.png)
+![Dashboard Page 2](screenshots/Dashboard_pg2.png)
+
 ## How To Run Locally
 
 **1. Clone the repo**
